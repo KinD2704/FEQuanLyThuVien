@@ -10,7 +10,8 @@
 > cd QuanLyThuVien          
 > npm install
 3. Chạy dự án
-> npm run dev   
+
+``` npm run dev ```   
 
 - Sau khi chạy xong terminal hiện http://localhost:5173/
 - Giữ Ctrl + click vào link http://localhost:5173/ để xem dự án trên trình duyệt
