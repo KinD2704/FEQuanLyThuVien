@@ -7,8 +7,8 @@
 # Hướng dẫn cài đặt dự án
 1. Tải dự án về máy (clone)
 2. Cài đặt thư viện
-> cd QuanLyThuVien          
-> npm install
+```cd QuanLyThuVien ```
+```npm install ```
 3. Chạy dự án
 
 ``` npm run dev ```   
